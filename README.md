@@ -29,6 +29,15 @@ I'm a full-stack engineer who works across many disciplines. The most interestin
 
 ---
 
+### 📈 GitHub activity
+
+<!-- PROFILE_STATS:start -->
+- 6,200+ GitHub contributions
+- 1,300+ active contribution days
+<!-- PROFILE_STATS:end -->
+
+---
+
 ### 🤝 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ryan-sanna)
