@@ -8,7 +8,7 @@ I'm a full-stack engineer with broad experience across software, infrastructure,
 
 **[Rancher](https://github.com/rancher/rancher)** — contributed to the open-source Kubernetes multi-cluster management platform.
 
-**[Messari](https://messari.io)** — a multimodal Deep Research product and an AI assistant product, built on a multi-tenant agent runtime (Temporal + Kubernetes, Go, Postgres, S3).
+**[Messari](https://messari.io)**
 
 **Open Knowledge Format (OKF) tooling** — [`okfview`](https://github.com/ryansann/okfview), an open-source viewer for OKF documents, and [`okftool`](https://github.com/ryansann/okftool), a bundle toolchain for spec validation, linting, and packaging.
 
