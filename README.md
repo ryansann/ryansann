@@ -19,8 +19,8 @@ I'm a full-stack engineer with broad experience across software, infrastructure,
 ### 📈 GitHub activity
 
 <!-- PROFILE_STATS:start -->
-- 6,200+ GitHub contributions
-- 1,300+ active contribution days
+- 6,300+ GitHub contributions
+- 1,400+ active contribution days
 <!-- PROFILE_STATS:end -->
 
 ### 🤝 Connect
